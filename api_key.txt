@@ -1,0 +1,2 @@
+"x-rapidapi-key": "084e23122amsh04e965b8bf94df5p1f6685jsn1b5e937d4d39",
+	"x-rapidapi-host": "weatherapi-com.p.rapidapi.com"
